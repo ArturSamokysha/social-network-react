@@ -1,0 +1,8 @@
+.content{
+  grid-area: c;
+  background-color: rgb(209, 209, 209);
+}
+
+.descriptionBlock{
+  padding: 10px;
+}
